@@ -1295,3 +1295,9 @@ h1, h2, h3, h4, h5,
 
 .single-content {
   font-size: .9rem; }
+
+  .caja {
+    width: 50px;
+    height: 100px; /* Ancho y alto fijo */
+    overflow: hidden; /* Se oculta el contenido desbordado */
+}
